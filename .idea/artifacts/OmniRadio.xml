@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OmniRadio">
+    <output-path>$PROJECT_DIR$/classes/artifacts/OmniRadio</output-path>
+    <root id="archive" name="OmniRadio.jar">
+      <element id="module-output" name="omniblockradio" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="artifact" artifact-name="libraries" />
+    </root>
+  </artifact>
+</component>
